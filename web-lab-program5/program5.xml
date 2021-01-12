@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="program5.css" ?>
+
+<student_information>
+	<h1> STUDENTS DESCRIPTION </h1>
+
+	<student>
+	<USN>USN : 1CE17CS134</USN>
+	<name>NAME : Tariq </name>
+	<college>COLLEGE : CEC</college>
+	<branch>BRANCH : Computer Science and Engineering</branch>
+	<year>YEAR : 2021</year>
+	<email>email : tariqsarfaraz7@gmail.com</email>
+	</student>
+
+	<student>
+	<USN>USN : 1CE17CS119</USN>
+	<name>NAME : shreyasgowda</name>
+	<college>COLLEGE : CEC</college>
+	<branch>BRANCH : Computer Science and Engineering</branch>
+	<year>YEAR : 2021</year>
+	<email>email : shreyasgowda@gmail.com</email>
+	</student>
+
+	<student>
+	<USN>USN : 1CE17CS107</USN>
+	<name>NAME : saneethbanik </name>
+	<college>COLLEGE : CEC</college>
+	<branch>BRANCH : Computer Science and Engineering	</branch>
+	<year>YEAR : 2021</year>
+	<email>email : saneethbanik@gmail.com</email>
+	</student>
+	
+</student_information>
